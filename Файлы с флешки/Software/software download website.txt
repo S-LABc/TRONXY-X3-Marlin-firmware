@@ -1,0 +1,7 @@
+The repetier software download website :
+http://www.repetier.com/download-now/
+
+
+
+FTDI usb driver download website :
+http://www.ftdichip.com/Drivers/VCP.htm
